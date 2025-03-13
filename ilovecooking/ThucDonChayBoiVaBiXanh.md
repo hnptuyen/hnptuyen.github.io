@@ -108,6 +108,7 @@ Mỗi món ăn trong thực đơn đều được chế biến tỉ mỉ để g
 
 ### 5. Canh Bí Xanh Nấu Nấm (Canh phụ)
 <img src="images/CanhBiXanhNauNam.png" height="300" alt="Canh Bí Xanh Nấu Nấm">
+
 **Nguyên liệu:**
 - 300g bí xanh (gọt vỏ, cắt miếng vừa ăn)
 - 150g nấm (nấm hương, nấm rơm hoặc nấm kim châm; nếu dùng nấm khô thì cần ngâm mềm, thái lát)
