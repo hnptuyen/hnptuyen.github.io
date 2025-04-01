@@ -1,7 +1,7 @@
 ---
 title: "Thực Đơn Bữa Tối Đơn Giản và Dễ Làm Dành Cho Gia Đình Trong Cả Tuần"
 date: 2025-03-17
-description: "Bài hướng dẫn thực hiện một bữa tối ấm cúng, nơi rau muống - loại rau dân dã, quen thuộc - trở thành ngôi sao sáng của bàn tiệc."
+description: "Bài hướng dẫn thực hiện một thực đơn bữa tối tuyệt hảo, đơn giản, và dễ làm dành cho gia đình 6 người tại i-love-cooking!"
 ---
 
 # Thực Đơn Bữa Tối Đơn Giản và Dễ Làm Dành Cho Gia Đình Trong Cả Tuần (Cho 6 người)
